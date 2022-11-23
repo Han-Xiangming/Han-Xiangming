@@ -37,6 +37,7 @@
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20Word&color=2b2e3b&logo=microsoftword&logoColor=185abd&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20Excel&color=2eb8ed&logo=microsoftexcel&logoColor=217346&label=)
 ![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20PowerPoint&color=af6cf6&logo=microsoftpowerpoint&logoColor=b7472a&label=)
+![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS%20Studio&color=77AA99&logo=obsstudio&logoColor=302E31&label=)
 ![Tencent QQ](https://img.shields.io/static/v1?style=for-the-badge&message=Tencent%20QQ&color=c2ad6f&logo=tencentqq&logoColor=eb1923&label=)
 ![Wechat](https://img.shields.io/static/v1?style=for-the-badge&message=wechat&color=333333&logo=wechat&logoColor=07C160&label=)
 
