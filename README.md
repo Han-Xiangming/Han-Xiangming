@@ -12,7 +12,7 @@
 
 #编程语言
 
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C++&color=e9ca0a&logo=cplusplus&logoColor=000000&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=e9ca0a&logo=cplusplus&logoColor=000000&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=e9ca0a&logo=JavaScript&logoColor=000000&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=2b4f9c&logo=TypeScript&logoColor=ffffff&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=336e9d&logo=Python&logoColor=ffffff&label=)
