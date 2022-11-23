@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=141414&logo=JavaScript&logoColor=f7df1e&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=2b4f9c&logo=TypeScript&logoColor=3178c6&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=f7df1e&logo=Python&logoColor=3776ab&label=)
+![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=78be20&logo=lua&logoColor=2c2d72&label=)
 
 
 ### Front
