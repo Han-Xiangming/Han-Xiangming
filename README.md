@@ -15,7 +15,7 @@
 
 [![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=dc382d&logo=c&logoColor=a8b9cc&label=)]()
 [![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=47a248&logo=cplusplus&logoColor=00000000599c&label=)]()
-[![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=141414&logo=JavaScript&logoColor=f7df1e&label=)]()
+[![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=141414&logo=JavaScript&logoColor=f7df1e&label=)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=2b4f9c&logo=TypeScript&logoColor=3178c6&label=)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=f7df1e&logo=Python&logoColor=3776ab&label=)](https://www.python.org)
 [![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=78be20&logo=lua&logoColor=2c2d72&label=)](http://www.lua.org/)
