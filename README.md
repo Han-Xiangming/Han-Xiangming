@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Han-Xiangming
 - 👤 Students in the second year of junior high school
 - 📫 Contact: Email: 2728513634@qq.com/1565374504@qq.com
-- 🌈 Bilibili: [OpenTankOfBeta](https://bilibili.space.com/669743441)
+- 🌈 Bilibili: [OpenTankOfBeta](http://bilibili.space.com/669743441)
 
 ## This year's roundup ✨
 
