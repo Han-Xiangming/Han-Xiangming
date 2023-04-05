@@ -6,8 +6,8 @@
 
 ## This year's roundup ✨
 
-[<img align="" height="137px" alt="Han-Xiangming's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Han-Xiangming&hide_border=true&show_icons=true&include_all_commits=true&layout=compact&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />](https://github.com/Han-Xiangming)
-[<img align="" height="137px" alt="Han-Xiangming's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Xiangming&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />](https://github.com/Han-Xiangming)
+[<img align="" height="137px" alt="Han-Xiangming's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Han-Xiangming&hide_border=true&show_icons=true&include_all_commits=true&layout=compact&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />](https://github.com/Han-Xiangming)
+[<img align="" height="137px" alt="Han-Xiangming's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Xiangming&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />](https://github.com/Han-Xiangming)
 
 ## Something to like 🍻
 
