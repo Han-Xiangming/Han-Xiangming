@@ -11,10 +11,18 @@
 
 ## Something to like 🍻
 
+### Operating System
+
+[![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=000000&logo=windows11&logoColor=0078d4&label=)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=788b95&logo=linux&logoColor=fcc624&label=)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=003545&logo=Ubuntu&logoColor=r95420&label=)](https://ubuntu.com/)
+[![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)](https://manjaro.org/)
+
+
 ### Programming language
 
-[![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=dc382d&logo=c&logoColor=a8b9cc&label=)]()
-[![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=47a248&logo=cplusplus&logoColor=00000000599c&label=)]()
+[![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=dc382d&logo=c&logoColor=a8b9cc&label=)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=47a248&logo=cplusplus&logoColor=00000000599c&label=)](https://cplusplus.com/)
 [![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=141414&logo=JavaScript&logoColor=f7df1e&label=)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=2b4f9c&logo=TypeScript&logoColor=3178c6&label=)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=f7df1e&logo=Python&logoColor=3776ab&label=)](https://www.python.org)
@@ -47,9 +55,4 @@
 [![Tencent QQ](https://img.shields.io/static/v1?style=for-the-badge&message=Tencent%20QQ&color=c2ad6f&logo=tencentqq&logoColor=eb1923&label=)](https://im.qq.com/index)
 [![Wechat](https://img.shields.io/static/v1?style=for-the-badge&message=wechat&color=333333&logo=wechat&logoColor=07C160&label=)](https://weixin.qq.com/)
 
-### Operating System
 
-[![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=000000&logo=windows11&logoColor=0078d4&label=)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=788b95&logo=linux&logoColor=fcc624&label=)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=003545&logo=Ubuntu&logoColor=r95420&label=)](https://ubuntu.com/)
-[![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)](https://manjaro.org/)
