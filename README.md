@@ -47,10 +47,9 @@
 [![Tencent QQ](https://img.shields.io/static/v1?style=for-the-badge&message=Tencent%20QQ&color=c2ad6f&logo=tencentqq&logoColor=eb1923&label=)](https://im.qq.com/index)
 [![Wechat](https://img.shields.io/static/v1?style=for-the-badge&message=wechat&color=333333&logo=wechat&logoColor=07C160&label=)](https://weixin.qq.com/)
 
-### System
+### Operating System
 
 [![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=000000&logo=windows11&logoColor=0078d4&label=)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=788b95&logo=linux&logoColor=fcc624&label=)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=003545&logo=Ubuntu&logoColor=r95420&label=)](https://ubuntu.com/)
 [![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)](https://manjaro.org/)
-[![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=f9c23c&logo=Debian&logoColor=a81d33&label=)](https://www.debian.org/)
