@@ -15,16 +15,13 @@
 
 [![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=000000&logo=windows11&logoColor=0078d4&label=)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=788b95&logo=linux&logoColor=fcc624&label=)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=003545&logo=Ubuntu&logoColor=r95420&label=)](https://ubuntu.com/)
-[![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)](https://manjaro.org/)
+
 
 
 ### Programming language
 
 [![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=dc382d&logo=c&logoColor=a8b9cc&label=)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=47a248&logo=cplusplus&logoColor=00000000599c&label=)](https://cplusplus.com/)
-[![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=141414&logo=JavaScript&logoColor=f7df1e&label=)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=2b4f9c&logo=TypeScript&logoColor=3178c6&label=)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=f7df1e&logo=Python&logoColor=3776ab&label=)](https://www.python.org)
 [![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=78be20&logo=lua&logoColor=2c2d72&label=)](http://www.lua.org/)
 
@@ -41,6 +38,7 @@
 ### Tools
 
 [![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=0c0e13&logo=Visual+Studio+Code&logoColor=007acc&label=)](https://code.visualstudio.com)
+[![Pycharm](https://img.shields.io/static/v1?style=for-the-badge&message=pycahrm&color=0c0e13&logo=Pycharm&logoColor=007acc&label=)](https://www.jetbrains.com/pycharm)
 [![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime%20Text&color=424242&logo=sublimetext&logoColor=ff9800&label=)](https://www.sublimetext.com)
 [![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=0a0a20&logo=vim&logoColor=019733&label=)](https://www.vim.org)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=609926&logo=git&logoColor=F05032&label=)](https://git-scm.com)
@@ -48,9 +46,6 @@
 [![Microsoft Edge](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20Edge&color=003545&logo=MicrosoftEdge&logoColor=0078d7&label=)](https://www.microsoft.com/en-us/edge/home?form=MA13FJ)
 [![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google%20Chrome&color=646cff&logo=googlechrome&logoColor=fbbf11&label=)](https://www.google.cn/intl/en_us/chrome/)
 [![BiliBili](https://img.shields.io/static/v1?style=for-the-badge&message=Bilibili&color=222222&logo=bilibili&logoColor=00a1d6&label=)](https://www.bilibili.com)
-[![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20Word&color=2b2e3b&logo=microsoftword&logoColor=185abd&label=)](https://www.microsoft.com/en-us/microsoft-365/word)
-[![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20Excel&color=2eb8ed&logo=microsoftexcel&logoColor=217346&label=)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20PowerPoint&color=af6cf6&logo=microsoftpowerpoint&logoColor=b7472a&label=)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS%20Studio&color=77AA99&logo=obsstudio&logoColor=302E31&label=)](https://obsproject.com)
 [![Tencent QQ](https://img.shields.io/static/v1?style=for-the-badge&message=Tencent%20QQ&color=c2ad6f&logo=tencentqq&logoColor=eb1923&label=)](https://im.qq.com/index)
 [![Wechat](https://img.shields.io/static/v1?style=for-the-badge&message=wechat&color=333333&logo=wechat&logoColor=07C160&label=)](https://weixin.qq.com/)
