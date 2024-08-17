@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/fPHzpJ7.gif" height="175px"/></a>
 ## 👋 Hi, I’m @Han-Xiangming
-- 👤 Junior high school students
+- 👤 Senior high school students
 - 📫 Contact: Email: 2728513634@qq.com/a1565374504@gmail.com
 - 🌈 Bilibili: [OpenTankOfBeta](http://space.bilibili.com/669743441)
 
