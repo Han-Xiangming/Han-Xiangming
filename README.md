@@ -4,6 +4,8 @@
 - 📫 Contact: Email: 2728513634@qq.com/a1565374504@gmail.com
 - 🌈 Bilibili: [OpenTankOfBeta](http://space.bilibili.com/669743441)
 
+![:Han-Xingming](https://moe-counter.lxchapu.com/:Han-Xiangming?theme=rule34)
+
 ## This year's roundup ✨
 
 [<img align="" height="137px" alt="Han-Xiangming's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Han-Xiangming&hide_border=true&show_icons=true&include_all_commits=true&layout=compact&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />](https://github.com/Han-Xiangming)
